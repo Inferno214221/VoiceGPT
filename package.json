@@ -1,0 +1,21 @@
+{
+  "name": "voicerecognition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audio-buffer": "^5.0.0",
+    "exec": "^0.2.1",
+    "fs": "^0.0.1-security",
+    "github-download": "^0.5.0",
+    "gtts": "^0.2.1",
+    "mic": "^2.1.2",
+    "openai": "^3.1.0",
+    "vosk": "^0.3.39"
+  }
+}
